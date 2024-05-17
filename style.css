@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+}
+
+p, li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li {
+    background-color: azure;
+}
+
+ol li {
+    background-color: bisque;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
